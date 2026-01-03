@@ -111,3 +111,25 @@ A forma como você captura os dados que chegam do Frontend/Cliente.
 - 🛠️ **Quando usar** ➜ Para URLs de APIs externas, chaves de API, flags de funcionalidades, caminhos de diretórios.
 - ✅ **Boas Práticas** ➜ Se houver muitas propriedades relacionadas, prefira @ConfigurationProperties (veremos no nível Intermediário) para type-safety.
 
+### Resumo Visual da Estrutura Básica
+````txt
+App (Main) 
+  └── @SpringBootApplication
+       └── Configura ComponentScan e AutoConfig
+
+Controller (API Layer)
+  └── @RestController
+       └── @GetMapping / @PostMapping
+            └── Recebe DTOs (@RequestBody)
+            └── Chama Service
+
+Service (Business Layer)
+  └── @Service
+       └── Injeção via Construtor
+       └── Contém lógica de negócio
+       └── Chama Repository
+
+Repository (Data Layer)
+  └── @Repository (ou Interface JpaRepository)
+       └── Acessa Banco de Dados
+````
