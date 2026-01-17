@@ -1,3 +1,4 @@
+> Resumo ✏️
 # ☕🌱 | Avançado
 Foco: Segurança (Security), Testes Automatizados, Performance (Async/Cache) e Observabilidade.
 
