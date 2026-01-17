@@ -29,6 +29,8 @@ Dependência (Maven):
 ````
  - *Se usar o Spring Initializr, basta selecionar "Lombok" na lista de dependências.*
 
+---
+
 ## 2. As Anotações Essenciais 🏷️
 A "Santíssima Trindade" (Getters, Setters e ToString)
 
@@ -106,6 +108,8 @@ public class PagamentoService {
 }
 ````
 
+---
+
 ## 3. Integração com Spring Boot 🌱🔌
 Esta é a dica mais valiosa deste guia. Use o Lombok para eliminar a anotação `@Autowired`.
 
@@ -132,6 +136,8 @@ public class UsuarioService {
     }
 }
 ````
+
+---
 
 ## 4. Boas Práticas e "Pegadinhas" 🧠⚠️
 Cuidado com JPA e `@Data`
