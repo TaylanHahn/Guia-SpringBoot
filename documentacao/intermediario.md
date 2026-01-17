@@ -1,3 +1,4 @@
+> Resumo ✏️
 # ☕🌱 | Intermediário
 Foco: Persistência (JPA), Validação, Tratamento de Erros e Padrões de Projeto (DTO).
 
