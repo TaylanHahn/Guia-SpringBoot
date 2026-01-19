@@ -1,5 +1,5 @@
 > Ferramenta ⚙️
-# Spring Initializr <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="24" height="24">
+## Spring Initializr <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="24" height="24">
 ### A Porta de Entrada do Universo Spring
 
 O **Spring Initializr** é uma ferramenta web (e também uma API) que gera a estrutura base de uma aplicação **Spring Boot**.   Ele elimina a necessidade de configurar manualmente arquivos de build complexos, permitindo que você foque no **código de negócio desde o primeiro minuto**.
