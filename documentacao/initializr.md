@@ -8,7 +8,7 @@ O **Spring Initializr** é uma ferramenta web (e também uma API) que gera a est
 
 ---
 
-## ⚙️ 1. As Opções de Configuração (Lado Esquerdo)
+### ⚙️ 1. As Opções de Configuração (Lado Esquerdo)
 
 Ao acessar o site, você verá um painel de configuração. Abaixo está o significado de cada opção:
 
@@ -79,12 +79,12 @@ Versão do JDK instalada na máquina.
 
 ---
 
-## 🧩 2. As Dependências (Lado Direito)
+### 🧩 2. As Dependências (Lado Direito)
 
 Aqui você escolhe as **“peças de LEGO”** do projeto.  
 O Initializr garante que todas sejam **compatíveis entre si**.
 
-### Categorias mais usadas:
+**Categorias mais usadas**
 
 #### 🌐 Web
 - **Spring Web** — Criação de APIs REST e aplicações MVC.
@@ -107,7 +107,7 @@ O Initializr garante que todas sejam **compatíveis entre si**.
 
 ---
 
-## ⭐ 3. Principais Benefícios
+### ⭐ 3. Principais Benefícios
 
 ### 📦 3.1 Gestão Inteligente de Versões (BOM)
 O maior trunfo do Spring Boot.
@@ -133,7 +133,7 @@ src/main/resources  → Configurações e arquivos estáticos
 src/test/java       → Testes automatizados
 ````
 
-## 🧠 3.3 Integração com IDEs
+### 🧠 3.3 Integração com IDEs
 
 Você **não precisa acessar o site manualmente** para criar um projeto Spring Boot.
 
@@ -146,7 +146,7 @@ Ambas utilizam a **API do Initializr** para gerar o projeto diretamente na IDE, 
 
 ---
 
-## 📝 Resumo — Projeto To-Do List
+### 📝 Resumo — Projeto To-Do List
 
 Configuração ideal no **Spring Initializr**:
 
