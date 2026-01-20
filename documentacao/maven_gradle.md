@@ -1,4 +1,4 @@
-> Guia de Ferramenta 🛠️
+> Guia de Ferramentas 🛠️
 
 ## 🧱 Maven & Gradle 🐘
 
