@@ -10,7 +10,7 @@ Reúne **conceitos essenciais**, **exemplos práticos** e **anotações organiza
 
 🔴 [Resumo > Spring Avançado](./documentacao/avancado.md)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="18" height="18"> [Ferramenta > Spring Initializr](./documentacao/initializr.md)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="18" height="18"> [Guia de Ferramenta > Spring Initializr](./documentacao/initializr.md)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="18" height="18"> [Documentação > Spring.io](https://spring.io/)
 
