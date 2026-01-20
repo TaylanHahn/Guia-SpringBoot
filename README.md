@@ -16,6 +16,8 @@ Reúne **conceitos essenciais**, **exemplos práticos** e **anotações organiza
 
 🧩 [Guia de Referência > Lombok](./documentacao/lombok.md)
 
+🛠️ [Guia de Ferramentas > Maven & Gradle](./documentacao/maven_gradle.md)
+
 ...
 
 > **Contribuições são muito bem-vindas!** 💚  
