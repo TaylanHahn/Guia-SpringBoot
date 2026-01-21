@@ -149,6 +149,7 @@ dependencies {
 
 
 **Cenário de Exemplo > Adicionando o Lombok**
+
 Veja a diferença de sintaxe para adicionar a dependência que vimos no guia anterior.
 
 - No Maven (pom.xml):
